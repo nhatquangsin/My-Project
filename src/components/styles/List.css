@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.input{
+    height: 50px;
+    width: 100%;
+    background: #ff5c8d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.inputbox{
+    height: 80%;
+    width: 89%;
+}
+
+.button{
+    width: 10%;
+    height: 85%;
+}
